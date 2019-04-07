@@ -1,3 +1,9 @@
+This is a clone of Myntra app made as exercise 
+to run this project follow below commands
+## git clone <link address>
+## npm install
+## npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
