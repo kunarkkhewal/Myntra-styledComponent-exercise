@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/Header/Header';
 import Carousel from './components/Carousel/Index';
 import HotdealsSection from './components/Hotdeals/Index';
-// import DiscountSection from './components/Discount/Index';
+import DiscountSection from './components/Discount/Index';
 
 
 class App extends Component {
@@ -13,7 +13,7 @@ class App extends Component {
         <Header/>
         <Carousel/>
         <HotdealsSection/>
-        {/* <DiscountSection/> */}
+        <DiscountSection/>
       </div>
     );
   }
